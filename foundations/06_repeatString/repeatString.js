@@ -11,4 +11,4 @@ const repeatString = function(str, num) {
 
 // Do not edit below this line
 module.exports = repeatString;
-repeatString("hey", 3)
+repeatString("hey", 4)
